@@ -26,3 +26,5 @@ Otimizar as operações de transporte marítimo.
 1. Estruturar uma apresentação clara e concisa.
 2. Cumprir os desafios propostos no início do projeto.
 3. Otimizar os códigos já construídos com as técnicas aprendidas durante o curso.
+4. TIPOS DE TABELAS QUE DEVEMOS UTILIZAR:
+frequência, medidas resumo(média, mediana e desvio padrão), gráfico analítico (pearson), histograma e box plot
